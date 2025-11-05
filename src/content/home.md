@@ -2,7 +2,7 @@
 avatarImage:
   src: './avatar.jpg'
   alt: 'My avatar'
-githubCalendar: 'stelcodes'
+githubCalendar: 'scottbouloutian'
 ---
 
-Welcome to the example site. This site is meant to show off my custom Astro theme/template **MultiTerm** which creates a coder-ready blog complete with an interactive theme changer, RSS, sitemap, tagging, and markdown extensions.
+Welcome! I'm a software engineer with a passion for science, technology, engineering, and mathematics. This blog is where I share my thoughts and explorations on topics that spark my curiosity.
